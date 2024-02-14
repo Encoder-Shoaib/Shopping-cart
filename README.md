@@ -1,2 +1,2 @@
 # Shopping-cart
- click here to visit my website : https://github.com/shoaib-ahammed-49/Shopping-cart.git
+ click here to visit my website: https://encoder-shoaib.github.io/Shopping-cart/
